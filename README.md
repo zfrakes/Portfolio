@@ -9,7 +9,7 @@ JavaScript
 
 ## Launch
 To launch this application click or copy and paste the following link in your browser. 
-https://zfrakes.github.io/Portfolio/.
+
 
 ## Author
 This application was created by Zoey Frakes. To contact please email at zfrakes811@gmail.com

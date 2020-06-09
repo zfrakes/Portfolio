@@ -186,7 +186,7 @@ x* {
   ======================== */
   
   footer {
-    background-color: #eeeeee;
+    background-color: #f8f3eb;
     color: #A9A9A9;
     font-size: 1.5em;
     text-align: center;
@@ -198,7 +198,8 @@ x* {
     color:#A9A9A9;;
   }
   a.social-button {
-      background: #A9A9A9;;
+      background:#0072b1;
+      color: white;
       font-size: 20px;
       border-radius: 50%;
       margin: 5px;
@@ -222,11 +223,9 @@ x* {
 
   
   a.link-linkedin:hover{
-      background-color: #007bb6;
       color: #fff;
   }
   a.link-instagram:hover{
-      background-color: #e95950;
       color: #fff;
   }
   .btn-default {
@@ -252,3 +251,4 @@ x* {
     width:300px;
     margin-right: 50px;
   }
+  
